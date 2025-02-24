@@ -1,0 +1,19 @@
+{
+    "bob": {
+        "phone": "222",
+        "email": "@",
+        "birthday": "birth",
+        "address": "",
+        "notes": ""
+    },
+    "charlie": {
+        "name": "Charlie Brown",
+        "phone": "555-9876",
+        "email": "charlie@example.com",
+        "birthday": "1992-03-10",
+        "username": "charlieb",
+        "address": "789 Oak St, Lakeside",
+        "notes": "Old friend from college",
+        "favorite": false
+    }
+}
